@@ -1,0 +1,8 @@
+bin
+obj
+.ionide
+.vscode
+build
+**/.DS_Store
+decom*.txt
+Lambda.zip
